@@ -18,9 +18,6 @@ export default function LoginForm() {
                             aria-describedby="emailHelp"
                             placeholder="Enter email"
                         />
-                        <div id="emailHelp" className="form-text">
-                            We'll never share your email with anyone else.
-                        </div>
                     </div>
                     <div className="mb-3">
                         <label htmlFor="InputPassword" className="form-label">
